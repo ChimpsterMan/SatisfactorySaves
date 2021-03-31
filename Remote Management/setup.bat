@@ -4,3 +4,4 @@ git pull
 git add .
 git commit -m "New user joined save repo"
 git push -u origin master
+pause
